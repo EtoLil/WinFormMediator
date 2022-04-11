@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormMediator", "WinFormMediator\WinFormMediator.csproj", "{A4A70920-3773-4ED9-B70F-273B5D197990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A70920-3773-4ED9-B70F-273B5D197990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A70920-3773-4ED9-B70F-273B5D197990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A70920-3773-4ED9-B70F-273B5D197990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A70920-3773-4ED9-B70F-273B5D197990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2084D994-0665-4C43-946B-A7DE9A256129}
+	EndGlobalSection
+EndGlobal
